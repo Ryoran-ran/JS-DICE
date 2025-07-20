@@ -47,7 +47,7 @@ JavaScriptの基礎力とロジック構築力を養うため。
 
 ## 📸 スクリーンショット  
 
-Notionに記載
+Notionに記載  
 https://basalt-rest-65c.notion.site/23634fbceca180d1a39ae609f14b95f7
 ---
 
